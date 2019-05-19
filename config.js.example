@@ -1,0 +1,17 @@
+module.exports = {
+    Slack: {
+        Channel: {
+            Channel_A: {
+                Name: 'channel name',
+            },
+            Channel_IM_A: {
+                Name: 'user id',
+            },
+        },
+        User: {
+            UserNameA: {
+                Token: "",
+            },
+        },
+    },
+};
